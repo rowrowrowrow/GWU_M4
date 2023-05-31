@@ -2,6 +2,8 @@
 
 This repo includes an analysis of managed investment portfolios in comparison with the S&P 500.
 
+NOTE: for the 'Diversify the Portfolio' section of the analysis I combined the steps for both portfolios at each step for simplicity and easier analysis.
+
 ---
 
 ## Technologies
